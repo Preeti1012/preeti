@@ -19,7 +19,7 @@ While exploring Linux network stack, I examined software kernel-bypass framework
 
 More recently, I have been focusing on modern LLM serving systems such as [vLLM](https://github.com/vllm-project/vllm) and [SGLang](https://github.com/sgl-project/sglang), aiming to understand and mitigate performance bottlenecks in real-world inference workloads. My ongoing research explores new design opportunities in scheduling, memory offloading, and network-level optimizations to enable efficient large-scale AI inference.
 
-## Education
+## Academics
 - **PhD in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
 - **MTech in Computer Science and Engineering**<br>_2018 - 2020_ &#124; <br>[PDPM IIITDM, Jabalpur](https://www.iiitdmj.ac.in/)
 - **MCA in Computer Science and Applications**<br>_2013 - 2016_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
