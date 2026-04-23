@@ -26,4 +26,5 @@ More recently, I have been focusing on modern LLM serving systems such as [vLLM]
 - **M.Tech.**<br>_2018 - 2020_ &#124; <br>[PDPM IIITDM, Jabalpur](https://www.iiitdmj.ac.in/)
 - **MCA**<br>_2013 - 2016_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
 - **B.Sc.**<br>_2010 - 2013_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
+  
 ---
