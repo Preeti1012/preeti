@@ -23,6 +23,6 @@ More recently, I have been focusing on modern LLM serving systems such as [vLLM]
 - **PhD in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology, Bombay](https://www.iitb.ac.in/)
 - **MTech in Computer Science and Engineering**<br>_2018 - 2020_ &#124; <br>[PDPM IIITDM, Jabalpur](https://www.iiitdmj.ac.in/)
 - **MCA in Computer Science and Applications**<br>_2013 - 2016_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
-- **BSc(Hons.) Statistics**<br>_2010 - 2013_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
+- **BSc(Hons.) in Statistics**<br>_2010 - 2013_ &#124; <br>[Aligarh Muslim University, Aligarh](https://www.amu.ac.in/)
   
 ---
