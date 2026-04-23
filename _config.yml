@@ -61,7 +61,8 @@ author:
   name   : "Preeti"
   avatar : "/assets/images/profile2.jpg"
   bio    : "Research Scholar at IIT Bombay, Mumbai."
-  location: "[Synerg Lab, IIT Bombay](https://www.cse.iitb.ac.in/synerg/)"
+  location: "Synerg Lab, IIT Bombay"
+  url: "https://www.cse.iitb.ac.in/synerg/"
   email  : "preeti@cse.iitb.ac.in"
   links:
     # - label: "Website"
