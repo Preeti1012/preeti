@@ -11,7 +11,7 @@ permalink: /
 #   - title: "Another Title"
 #     text: "More text here."
 ---
-I am a PhD student in the [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/) at Indian Institute of Technology Bombay, advised by [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/). My research lies at the intersection of systems, networking, and systems for ML.
+I am a PhD student in the [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/) at Indian Institute of Technology Bombay, advised by [Prof. Mythili Vutukuru](https://www.cse.iitb.ac.in/~mythili/). I am a member of the [Synerg Lab](https://www.cse.iitb.ac.in/synerg/), where my research focuses on the intersection of systems, networking, and systems for machine learning.
 
 During my PhD seminar, I explored the programmability of Linux network stack, which plays a pivotal role in granting developers the ability to modify, extend, and optimize networking behaviors within the Linux operating system. I reviewed several research works showcasing the possibility of programmability at different levels of Linux Operating System [Report](https://github.com/Preeti1012/preeti/blob/master/_data/22D0376_Seminar_Report.pdf). 
 
