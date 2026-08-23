@@ -3,7 +3,7 @@ permalink: /taship/
 title: "Teaching Assistantship"
 ---
 
-
+- **CS 6010** : Applied Cloud Comuting (Ongoing)
 - **CS 794** : Systems for Machine Learning 
 - **CS 744** : Design and Engineering of Computing Systems
 - **CS 101** : Computer Programming and Utilization
