@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/preetikiran1012"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-academic-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=3cKRV8sAAAAJ&hl=en"
 
 footer:
@@ -92,6 +92,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/preetikiran1012"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=3cKRV8sAAAAJ&hl=en"
 
 defaults:
   # _posts
