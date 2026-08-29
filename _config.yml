@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Preeti"
+  name   : ""
   avatar : "/assets/images/profile2.jpg"
   bio    : "Research Scholar at IIT Bombay, Mumbai."
   location: "Synerg Lab, IIT Bombay"
@@ -77,6 +77,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/preetikiran1012"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-academic-cap"
+      url: "https://scholar.google.com/citations?user=3cKRV8sAAAAJ&hl=en"
 
 footer:
   links:
