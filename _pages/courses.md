@@ -10,8 +10,7 @@ Courses completed as part of PhD course work:
 - **CS 745** : Principles of Data and System Security, Spring 2022
 - **CS 695** : Topics in virtualization and cloud computing, Spring 2022
 
-Other courses:
-- **CS 6013** : Efficient AI (Ongoing), Autumn 2026
+Extra courses taken during PhD:
 - **CS 790** : Privacy Enhancing Technologies, Spring 2024
 - **CS 725** : Foundations of Machine Learning, Autumn 2024
 
