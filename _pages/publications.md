@@ -3,8 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- **[ATC '2026](https://sigops.org/s/conferences/atc/2026/index.html)**: Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference
-  [arXiv '2026](https://arxiv.org/abs/2605.06046)
+- **[ATC '2026](https://dl.acm.org/doi/10.1145/3828523.3857087)**: Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference
+  [arXiv '2026](https://arxiv.org/abs/2605.06046), [Paper](https://dl.acm.org/doi/pdf/10.1145/3828523.3857087)
 
 - **[ASPLOS '2026](https://dl.acm.org/doi/abs/10.1145/3779212.3790235)**: Toasty: Speeding Up Network I/O with Cache-Warm Buffers [Paper](https://dl.acm.org/doi/pdf/10.1145/3779212.3790235)
 
